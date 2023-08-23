@@ -6,8 +6,7 @@ import './sumit.css'
 import "./johny.css"
 const App = () => {
   return (
-    <>
-    </>
+    <div>App</div>
   )
 }
 
